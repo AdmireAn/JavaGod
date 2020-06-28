@@ -24,7 +24,7 @@
 * [Maven](tools/Maven.md)
 * [Git](tools/Git.md)
 * [Arthas](tools/Arthas.md)
-* [Arthas](tools/常用的工具.md)
+* [常用的工具](tools/常用的工具.md)
 ---
 * #### **架构**
 * [架构设计](framework/架构设计.md)
